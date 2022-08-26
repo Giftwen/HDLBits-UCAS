@@ -8,3 +8,4 @@ Each problem requires you to design a small circuit in Verilog. HDLBits gives yo
 https://hdlbits.01xz.net/wiki/Problem_sets#Getting_Started
 
 想要一起刷题的果壳儿速速加入仓库！！
+    2.ZhangXiaoyu
