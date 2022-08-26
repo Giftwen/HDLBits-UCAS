@@ -5,6 +5,6 @@ HDLBits is a collection of small circuit design exercises for practicing digital
 
 Each problem requires you to design a small circuit in Verilog. HDLBits gives you immediate feedback on the circuit module you submit. Your circuit is checked for correctness by simulating with a set of test vectors and comparing it to our reference solution.
 
-也是感兴趣数字ic的果壳萌新的每日一题！！！
-
 https://hdlbits.01xz.net/wiki/Problem_sets#Getting_Started
+
+想要一起刷题的果壳儿速速加入仓库！！
