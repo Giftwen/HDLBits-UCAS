@@ -12,3 +12,4 @@ https://hdlbits.01xz.net/wiki/Problem_sets#Getting_Started
 Members:
     1. WenJiabao
     2. ZhangXiaoyu
+    3. ChenShaowei
